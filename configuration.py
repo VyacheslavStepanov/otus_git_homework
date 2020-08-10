@@ -1,1 +1,2 @@
 TIMEOUT = 10
+TIMEOUT2 = 2
